@@ -48,5 +48,5 @@ This project investigates whether the payment method (credit card vs. cash) is a
 * Certain assumptions (e.g., random assignment to payment method) may not hold in real-world taxi behavior, which can influence the result.
 
 
-Business strategies such as credit card–focused promotions could leverage this observed pattern, depending on broader context and additional analysis.
+* Business strategies such as credit card–focused promotions could leverage this observed pattern, depending on broader context and additional analysis.
 
